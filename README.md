@@ -31,7 +31,7 @@
 ## 🏗️ 技术架构
 
 ### 前端技术栈
-- **Next.js 14**: React 全栈框架
+- **Next.js 15**: React 全栈框架
 - **TypeScript**: 类型安全的 JavaScript
 - **Tailwind CSS**: 实用优先的 CSS 框架
 - **Lucide React**: 现代化图标库
